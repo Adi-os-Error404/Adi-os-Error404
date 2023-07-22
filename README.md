@@ -10,7 +10,7 @@
 <div align="center">
 <img alt="python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <span>&#160;<span>
-<img alt="c" width="35px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/c-program-icon.svg"/
+<img alt="c" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/760px-C_Programming_Language.svg.png?20201031132917"/
     <span>&#160;<span>
       <span>&#160;<span>
 <img alt="c++" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
