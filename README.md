@@ -1,5 +1,5 @@
 
-# Hola, I am Aditya Patel / Adi-os-Error404 👋
+# Hola, I am Aditya Patel 👋
 
 <h3><b>I am a</b></h3>
 
