@@ -1,14 +1,21 @@
 # Hi! I am Aditya Patel 👋
-
-### **I am a**
-
-<img src="https://readme-typing-svg.demolab.com/?font=impact&letterSpacing=2px&size=36&duration=3000&pause=1000&color=fa6994&random=false&width=600&height=80&separator=%3C&lines=Full-Stack+Developer;%3CIT+Asset+Specialist;%3CPhysics+Tutor;%3CCalculus+Tutor;" />
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adi-os-error404&theme=react-dark)
 
 ---
 
 # 📬 Contact Me
 
-- 📧 **Email**: [adityap902021@gmail.com](mailto:adityap902021@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/aditya-h-patel](https://www.linkedin.com/in/aditya-h-patel)  
-- 🌐 **Portfolio**: [adi-os-error404.vercel.app](https://adi-os-error404.vercel.app/)
+<table>
+  <tr>
+    <td>📧 <b>Email</b></td>
+    <td><a href="mailto:adityap902021@gmail.com">adityap902021@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>💼 <b>LinkedIn</b></td>
+    <td><a href="https://www.linkedin.com/in/aditya-h-patel">linkedin.com/in/aditya-h-patel</a></td>
+  </tr>
+  <tr>
+    <td>🌐 <b>Portfolio</b></td>
+    <td><a href="https://adi-os-error404.vercel.app/">adi-os-error404.vercel.app</a></td>
+  </tr>
+</table>
